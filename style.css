@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(20, 150, 0);
+}
+
+p {
+    text-align: center;
+    font-size: 10vw;
+}
+img {
+    width: 100%;
+}
